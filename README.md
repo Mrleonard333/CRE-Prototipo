@@ -11,18 +11,18 @@
 ```
        [Caso n√£o queira afetar mais de um arquivo]
   /--------------------------------------------------------------------------------\
-    [FundaÁ„o crypto] - [CRE_Prototipo_01]
+    [Funda√ß√£o crypto] - [CRE_Prototipo_01]
 
     Iniciar o sistema? [S/N]: s
 
-    [! Antes de inciar o processo cire uma pasta para o arquivo caso n„o tenha !]
+    [! Antes de inciar o processo cire uma pasta para o arquivo caso n√£o tenha !]
     - [1] CRIAR
     - [2] REOMEAR
     - [3] EXCLUIR
 
     O que deseja?: 1
 
-    [! Acentos ir„o bugar !]
+    [! Acentos ir√£o bugar !]
 
     Deseja afetar mais de um arquivo? [S/N]: n
     Qual o nome do arquivo?: Random.txt
@@ -32,18 +32,18 @@
 
        [Caso queira afetar mais de um arquivo]
   /--------------------------------------------------------------------------------\
-    [FundaÁ„o crypto] - [CRE_Prototipo_01]
+    [Funda√ß√£o crypto] - [CRE_Prototipo_01]
 
     Iniciar o sistema? [S/N]: s
 
-    [! Antes de inciar o processo cire uma pasta para o arquivo caso n„o tenha !]
+    [! Antes de inciar o processo cire uma pasta para o arquivo caso n√£o tenha !]
     - [1] CRIAR
     - [2] REOMEAR
     - [3] EXCLUIR
 
     O que deseja?: 1
 
-    [! Acentos ir„o bugar !]
+    [! Acentos ir√£o bugar !]
 
     Deseja afetar mais de um arquivo? [S/N]: s
     Digite a quantidade: 3
@@ -60,18 +60,18 @@
 ```
        [Caso n√£o queira afetar mais de um arquivo]
   /--------------------------------------------------------------------------------\
-    [FundaÁ„o crypto] - [CRE_Prototipo_01]
+    [Funda√ß√£o crypto] - [CRE_Prototipo_01]
 
     Iniciar o sistema? [S/N]: s
 
-    [! Antes de inciar o processo cire uma pasta para o arquivo caso n„o tenha !]
+    [! Antes de inciar o processo cire uma pasta para o arquivo caso n√£o tenha !]
     - [1] CRIAR
     - [2] REOMEAR
     - [3] EXCLUIR
 
     O que deseja?: 2
 
-    [! Acentos ir„o bugar !]
+    [! Acentos ir√£o bugar !]
 
     Deseja afetar mais de um arquivo? [S/N]: n
     Qual o nome do arquivo?: Random.txt
@@ -81,18 +81,18 @@
   
        [Caso queira afetar mais de um arquivo]
   /--------------------------------------------------------------------------------\
-    [FundaÁ„o crypto] - [CRE_Prototipo_01]
+    [Funda√ß√£o crypto] - [CRE_Prototipo_01]
 
     Iniciar o sistema? [S/N]: s
 
-    [! Antes de inciar o processo cire uma pasta para o arquivo caso n„o tenha !]
+    [! Antes de inciar o processo cire uma pasta para o arquivo caso n√£o tenha !]
     - [1] CRIAR
     - [2] REOMEAR
     - [3] EXCLUIR
 
     O que deseja?: 2
 
-    [! Acentos ir„o bugar !]
+    [! Acentos ir√£o bugar !]
 
     Deseja afetar mais de um arquivo? [S/N]: s
     Digite a quantidade: 2
@@ -109,18 +109,18 @@
 ```
        [Caso n√£o queira afetar mais de um arquivo]
   /--------------------------------------------------------------------------------\
-    [FundaÁ„o crypto] - [CRE_Prototipo_01]
+    [Funda√ß√£o crypto] - [CRE_Prototipo_01]
 
     Iniciar o sistema? [S/N]: s
 
-    [! Antes de inciar o processo cire uma pasta para o arquivo caso n„o tenha !]
+    [! Antes de inciar o processo cire uma pasta para o arquivo caso n√£o tenha !]
     - [1] CRIAR
     - [2] REOMEAR
     - [3] EXCLUIR
 
     O que deseja?: 3
 
-    [! Acentos ir„o bugar !]
+    [! Acentos ir√£o bugar !]
 
     Deseja afetar mais de um arquivo? [S/N]: n
     Qual o nome do arquivo?: Random.txt
@@ -130,18 +130,18 @@
   
       [Caso queira afetar mais de um arquivo]
   /--------------------------------------------------------------------------------\
-    [FundaÁ„o crypto] - [CRE_Prototipo_01]
+    [Funda√ß√£o crypto] - [CRE_Prototipo_01]
 
     Iniciar o sistema? [S/N]: s
 
-    [! Antes de inciar o processo cire uma pasta para o arquivo caso n„o tenha !]
+    [! Antes de inciar o processo cire uma pasta para o arquivo caso n√£o tenha !]
     - [1] CRIAR
     - [2] REOMEAR
     - [3] EXCLUIR
 
     O que deseja?: 3
 
-    [! Acentos ir„o bugar !]
+    [! Acentos ir√£o bugar !]
 
     Deseja afetar mais de um arquivo? [S/N]: s
     Digite a quantidade: 2
