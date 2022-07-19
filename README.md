@@ -15,7 +15,7 @@
 
     Iniciar o sistema? [S/N]: s
 
-    [! Antes de inciar o processo cire uma pasta para o arquivo caso não tenha !]
+    [! Antes de inciar o processo crie uma pasta para o arquivo caso não tenha !]
     - [1] CRIAR
     - [2] REOMEAR
     - [3] EXCLUIR
@@ -36,7 +36,7 @@
 
     Iniciar o sistema? [S/N]: s
 
-    [! Antes de inciar o processo cire uma pasta para o arquivo caso não tenha !]
+    [! Antes de inciar o processo crie uma pasta para o arquivo caso não tenha !]
     - [1] CRIAR
     - [2] REOMEAR
     - [3] EXCLUIR
@@ -64,7 +64,7 @@
 
     Iniciar o sistema? [S/N]: s
 
-    [! Antes de inciar o processo cire uma pasta para o arquivo caso não tenha !]
+    [! Antes de inciar o processo crie uma pasta para o arquivo caso não tenha !]
     - [1] CRIAR
     - [2] REOMEAR
     - [3] EXCLUIR
@@ -85,7 +85,7 @@
 
     Iniciar o sistema? [S/N]: s
 
-    [! Antes de inciar o processo cire uma pasta para o arquivo caso não tenha !]
+    [! Antes de inciar o processo crie uma pasta para o arquivo caso não tenha !]
     - [1] CRIAR
     - [2] REOMEAR
     - [3] EXCLUIR
@@ -113,7 +113,7 @@
 
     Iniciar o sistema? [S/N]: s
 
-    [! Antes de inciar o processo cire uma pasta para o arquivo caso não tenha !]
+    [! Antes de inciar o processo crie uma pasta para o arquivo caso não tenha !]
     - [1] CRIAR
     - [2] REOMEAR
     - [3] EXCLUIR
@@ -134,7 +134,7 @@
 
     Iniciar o sistema? [S/N]: s
 
-    [! Antes de inciar o processo cire uma pasta para o arquivo caso não tenha !]
+    [! Antes de inciar o processo crie uma pasta para o arquivo caso não tenha !]
     - [1] CRIAR
     - [2] REOMEAR
     - [3] EXCLUIR
